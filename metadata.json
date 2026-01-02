@@ -1,0 +1,8 @@
+{
+  "name": "Copy of FB Campaign Architect AI",
+  "description": "A comprehensive tool to generate high-converting Facebook marketing campaigns, featuring AI-generated ad copy, professional visuals via Gemini 3 Pro Image, and an integrated strategy assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
